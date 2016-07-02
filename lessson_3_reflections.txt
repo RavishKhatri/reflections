@@ -4,4 +4,4 @@ When collaborating with other people
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
-so that it dont automatically update your working branch
+so that it doesnt automatically update your working branch
