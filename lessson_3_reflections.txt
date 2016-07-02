@@ -18,3 +18,6 @@ To help in merging the remote at a later stage and you can also work on your loc
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 Maybe another vcs. Without VCS its harder to collaborate on large projects.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+When a important feature,bug fix has to be added or you want to experiment on the project , then its good to make a branch. Otherwise for small changes , doing your work on master is good enough
