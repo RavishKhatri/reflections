@@ -5,3 +5,6 @@ It initialisez that directory into a git repo. So that git can keep track of the
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 Staging area gives you the option of commiting the selected files in one commit. It helps to commit one logical change at a time.
+
+How can you use the staging area to make sure you have one commit per logical change?
+We can use git add on the files in one logical change to add them in staging area. ANd then commit. 
