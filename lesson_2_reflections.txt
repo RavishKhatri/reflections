@@ -7,4 +7,8 @@ How is the staging area different from the working directory and the repository?
 Staging area gives you the option of commiting the selected files in one commit. It helps to commit one logical change at a time.
 
 How can you use the staging area to make sure you have one commit per logical change?
-We can use git add on the files in one logical change to add them in staging area. ANd then commit. 
+We can use git add on the files in one logical change to add them in staging area. ANd then commit.
+
+ What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+When adding a bg feature to the project or change some functionality.
+Or doing some experiment on your project
