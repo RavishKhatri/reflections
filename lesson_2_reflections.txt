@@ -12,3 +12,6 @@ We can use git add on the files in one logical change to add them in staging are
  What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 When adding a bg feature to the project or change some functionality.
 Or doing some experiment on your project
+
+How do the diagrams help you visualize the branch structure?
+It helps in mergin different branches and understand the branch structure
