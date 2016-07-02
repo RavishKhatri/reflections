@@ -18,3 +18,7 @@ It helps in mergin different branches and understand the branch structure
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 So that all the changes in both branches should be on the master/single branch.To clearly understand the branch structure
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Pros: less manual work
+Cons: Can create very simple conflicts 
