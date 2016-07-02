@@ -15,3 +15,6 @@ Branch is used for making branches on your repo to add a feature
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 To help in merging the remote at a later stage and you can also work on your local without connected to remote
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+Maybe another vcs. Without VCS its harder to collaborate on large projects.
